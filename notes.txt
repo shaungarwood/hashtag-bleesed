@@ -1,0 +1,117 @@
+censorshipwreck@gmail.com
+password: (8 characters)
+id: 439271 ?
+
+links to look at:
+ - unsubscribe link
+ - handover link!
+ - neighborhood view
+ - change info on neighborhood addresse (correct bad info)
+
+Qs:
+ - how is it getting name->address information?
+
+
+
+LOCATION INFORMATION
+---------------------
+https://app.blesseveryhome.com:1978/
+{"s":true,"e":null,"n":null,"p":{"showiprayedforyoucutandpastemessage":0,"iprayedforyoucutandpastemessage":null,"curPrayReq":null,"email":null,"phone":null,"label":"ABBY BOELLNER","address":"18225 COTTONWOOD APT 205, CO-80138","zip":"80138"}}
+
+https://app.blesseveryhome.com:1978/
+{"t":"prayerList_neighborhoodListGetForMap","p":{},"r":{"id":439271,"type":"light"}}
+{
+  "s": true,
+  "e": null,
+  "n": null,
+  "p": {
+    "member": {
+      "lat": 39.5572291,
+      "lng": -104.7804905,
+      "quality": null
+    },
+    "prayers": [
+      {
+        "state": "CO",
+        "plID": 10944405,
+        "s1": 0,
+        "s2": 0,
+        "s3": 0,
+        "s4": 0,
+        "lat": 39.55741119,
+        "lng": -104.78037262,
+        "daily": 0,
+        "aID": 94364888,
+        "bX": 39.55741119,
+        "bY": -104.78037262,
+        "bQ": 2
+      },
+      {
+        "state": "CO",
+        "plID": 10944406,
+        "s1": 0,
+        "s2": 0,
+        "s3": 0,
+        "s4": 0,
+        "lat": 39.55755997,
+        "lng": -104.7802887,
+        "daily": 0,
+        "aID": 124479120,
+        "bX": 39.55755997,
+        "bY": -104.7802887,
+        "bQ": 2
+      },
+      {
+        "state": "CO",
+        "plID": 10944407,
+        "s1": 0,
+        "s2": 0,
+        "s3": 0,
+        "s4": 0,
+        "lat": 39.55662918,
+        "lng": -104.78092194,
+        "daily": 0,
+        "aID": 14301981,
+        "bX": 39.55662918,
+        "bY": -104.78092194,
+        "bQ": 2
+      },
+      // ... more prayers ...
+    ]
+  }
+}
+
+MAPS
+------
+https://app.blesseveryhome.com/light/neighborhood/map.php?pagetype=light&pagerole=439271
+<script>window.personIsAdmin=0;</script>
+
+SIGNUP
+------
+signup form:
+=> {:address_components=>
+  [{:long_name=>"12340", :short_name=>"12340", :types=>["street_number"]},
+   {:long_name=>"Boggy Creek Road", :short_name=>"Boggy Creek\nRd", :types=>["route"]},
+   {:long_name=>"Orlando", :short_name=>"Orlando", :types=>["locality", "political"]},
+   {:long_name=>"Orange County", :short_name=>"Orange\nCounty", :types=>["administrative_area_level_2", "political"]},
+   {:long_name=>"Florida", :short_name=>"FL", :types=>["administrative_area_level_1", "political"]},
+   {:long_name=>"United\nStates", :short_name=>"US", :types=>["country", "political"]},
+   {:long_name=>"32824", :short_name=>"32824", :types=>["postal_code"]}],
+ :formatted_address=>"12340 Boggy Creek Rd, Orlando, FL 32824, USA",
+ :geometry=>{:location=>{:lat=>28.3841579, :lng=>-81.3164274}},
+ :html_attributions=>[]}
+
+wtf is "administrative_area_level_2" and "administrative_area_level_1"?
+
+check out the different "steps" of signup
+
+
+
+wtf is "forgodseternalpurpose"?
+URLEncoded form                                        
+forgodseternalpurpose: fb016bacaf0a44b4ec187872ec87530b
+returnURL:
+forcedEmail:
+email:                 censorshipwreck@gmail.com
+password:              [FILTERED]
+
